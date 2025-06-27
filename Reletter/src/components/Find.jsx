@@ -232,7 +232,7 @@ const styles = {
     justifyContent: "center",
     alignItems: "center",
     backgroundColor: "#fff0f6",
-    minHeight: "750px",
+    minHeight: "100vh",
   },
   container: {
     width: "720px",

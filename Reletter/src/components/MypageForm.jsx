@@ -69,7 +69,7 @@ const MyPageForm = () => {
     <div
       style={{
         backgroundColor: "#fff0f6",
-        height: "670px",
+        height: "940px",
         paddingTop: "80px",
       }}
     >

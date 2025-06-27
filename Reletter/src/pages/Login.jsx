@@ -7,7 +7,7 @@ import { useNavigate } from "react-router-dom";
 const styles = {
   Background: {
     backgroundColor: "#fff0f6",
-    height: "100%",
+    height: "980px",
     marginBottom: "0px",
   },
   SignLogTitle: {

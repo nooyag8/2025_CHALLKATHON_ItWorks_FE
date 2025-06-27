@@ -244,9 +244,9 @@ const DiaryWrite = () => {
 const styles = {
   page: {
     backgroundColor: "#fff0f6",
-    height: "745px",
+    height: "940px",
     padding: "2rem",
-    paddingTop: "30px"
+    paddingTop: "70px"
   },
   mainContainer: {
     display: "flex",
